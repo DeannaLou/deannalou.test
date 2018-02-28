@@ -1,0 +1,11 @@
+{
+  "name": "deannalou.test",
+  "version": "0.0.6-xxx.1+20180228",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
